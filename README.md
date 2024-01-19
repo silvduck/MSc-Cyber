@@ -1,6 +1,8 @@
 # MSc-Cyber
 ### University Master's Degree in Cybersecurity and Privacy (UOC)
 
-Master's in Cybersecurity and Privacy with specialization in Technologies, showing knowledge in legislation and ethics, cryptography, Blockchain, privacy and security architecture and protocols.
+The master's in Cybersecurity and Privacy trains professionals in cybersecurity technologies and data protection. Beyond technical skills, it covers legal, political, human factors, ethics, and risk management aspects within the context of cybersecurity.
 
-This repository contains notes and codes that I created during my master's studies.
+**Skills**: Encryption · Cybersecurity · Penetration Testing · Data Privacy · Lightning Network · Blockchain · Cryptography
+
+_This repository contains notes and codes that I created during my master's studies._
